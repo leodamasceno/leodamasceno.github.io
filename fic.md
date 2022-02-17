@@ -2,10 +2,16 @@
 layout: default
 ---
 
-## Welcome to another page
+## Dividend Stocks Investiment (Monthly Income)
 
-<input type="text" id="fname" name="fname">
+Use this tool to calculate how much you need to invest in order to get paid monthly the value specified in the options below.
 
-_yay_
+How much would you like to receive per month?
+<input type="text" id="monthly_income" name="monthly_income">
+
+What's the total of your dividend yield (In percentage per year)?
+<input type="text" id="dividend_yield" name="dividend_yield">
+
+<button onclick="calculateDSI()">Click</button>
 
 [back](./)
