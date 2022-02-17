@@ -8,6 +8,6 @@ function calculateDSI() {
 
     var total = (yearly_income / dividend_yield_percentage);
 
-    document.getElementById('total_value').innerHTML = total;
+    document.getElementById('total_value').innerHTML = "Value: " + total;
 
 }

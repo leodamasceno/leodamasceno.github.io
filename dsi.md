@@ -15,7 +15,7 @@ What's the total of your dividend yield (The percentage is already implied)? Exa
 <button onclick="calculateDSI()">Calculate</button>
 
 <p align="center">
-### Value: <label id="total_value"></label>
+<label id="total_value"></label>
 </p>
 
 
