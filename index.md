@@ -17,7 +17,7 @@ Welcome! Here are some personal projects I've worked on:
 
 Here are some tools I developed. Feel free to use them:
 
-*   [FIC](./fic.md)
+*   [DSI - Dividend Stocks Investiment](./dsi.md)
 
 
 # About me

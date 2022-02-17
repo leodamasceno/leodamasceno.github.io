@@ -14,4 +14,6 @@ What's the total of your dividend yield (In percentage per year)?<br>
 
 <button onclick="calculateDSI()">Calculate</button>
 
+<script src="calc.js"></script>
+
 [back](./)
