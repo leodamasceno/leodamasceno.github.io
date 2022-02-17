@@ -8,6 +8,6 @@ function calculateDSI() {
 
     var total = ((yearly_income / dividend_yield_percentage).toFixed(2)).toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
 
-    document.getElementById('total_value').innerHTML = "Value: " + total;
+    document.getElementById('total_value').innerHTML = "Value to be invested: $" + total;
 
 }
